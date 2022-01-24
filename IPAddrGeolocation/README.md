@@ -7,7 +7,7 @@ IPAddrGeolocation is a simple one-liner tool that allows you to find the geoloca
   city: Tirana,
   region: Tirana,
   country: AL,
-  loc: 41.3275,19.8189,
+  loc: 41.347741, 19.831614,
   org: AS21183 Vodafone Albania Sh.A.,
   timezone: Europe/Tirane,
   readme: https://ipinfo.io/missingauth
